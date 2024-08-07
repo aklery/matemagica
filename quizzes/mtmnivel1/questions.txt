@@ -1,0 +1,23 @@
+title Matemática Nivel 1
+admincode perola15
+quizcode mtmnvl1
+
+q Determine o número de termos de uma PG, onde
+img q1.png
+time 30
+marks 1
+ac n = 8
+a n = 10
+a n = 20
+a n = 100
+!
+
+q En quelle année eut lieu les signes des éclipses lunaires et solaires prophétisant la venue du Messie Promis?
+time 30
+marks 30
+img 4.png
+a 1878
+ac 1894
+a 1901
+a 1908
+!
